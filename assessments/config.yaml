@@ -1,1 +1,2 @@
 eeg_data: '/data/datasets/Programming1/eeg_data.csv'
+glucose_data: '/data/datasets/Programming1/glucose.json'
