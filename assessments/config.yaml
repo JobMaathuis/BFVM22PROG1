@@ -1,2 +1,12 @@
 eeg_data: '/data/datasets/Programming1/eeg_data.csv'
+
 glucose_data: '/data/datasets/Programming1/glucose.json'
+
+conditions_data: '../data/conditions.csv'
+patients_data: '../data/patients.csv'
+observations_data: '../data/observations.csv'
+careplans_data: '../data/careplans.csv'
+encounters_data: '../data/encounters.csv'
+
+knmi_data: '/data/datasets/Programming1/KNMI_20181231.txt.tsv'
+massachusetts: 'https://raw.githubusercontent.com/glynnbird/usstatesgeojson/master/massachusetts.geojson'
